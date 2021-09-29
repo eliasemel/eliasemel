@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eliasemel Senior Software engineer concerntrating on Apple Platforms
+- 👋 Hi, I’m @eliasemel Senior Software engineer focused on Apple Platforms
 - 👀 I’m interested in Apple platforms, concentrating in Swift.
 - 🌱 I’m currently learning SwiftUI and Combine.
 - 💞️ I’m looking to collaborate on iOS/tvOS projects.
