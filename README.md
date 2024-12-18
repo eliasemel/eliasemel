@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on iOS/tvOS projects.
 - 📫 Reach me at https://www.linkedin.com/in/emelelias
 - :point_right: [Pokemon](https://github.com/eliasemel/Pokemon) will keep on updating with things i learn.
+- https://gist.github.com/eliasemel/f57cc56ac40e413d72050cb34feda67a
 
 <!---
 eliasemel/eliasemel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
