@@ -5,6 +5,8 @@
 I’m a passionate iOS engineer with over 12 years of experience building high-quality apps for Apple platforms. I love crafting intuitive, performant user experiences using **Swift**, **SwiftUI**, and **Combine** — and I’m always exploring ways to make apps cleaner, faster, and more delightful.
 
 ---
+## 📚 Swift Basics Guide  
+[Explore the full guide →](https://gist.github.com/eliasemel/f57cc56ac40e413d72050cb34feda67a)  
 
 ### 👀 Interests
 - Apple platforms (iOS, iPadOS, tvOS)
